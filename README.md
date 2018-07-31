@@ -18,7 +18,7 @@
     * Exceptions
     * Errors
     * -----
-    * Lumbda
+    * Lambda
     * List
     * Tuples
     * Dictionary
