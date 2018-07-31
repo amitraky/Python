@@ -3,25 +3,25 @@
   
   
   ## Basic 
-    * Basic Syntax
-    * Variables Type
-    * Operators
-    * Loops 
-    * Conditions
-    * Number,Strings
-    * functions
-    * Array
-    * Object
-    * Json
-    * File
-    * Classes
-    * Exceptions
-    * Errors
-    * -----
-    * Lambda
-    * List
-    * Tuples
-    * Dictionary
+   * Basic Syntax
+   * Variables Type
+   * Operators
+   * Loops 
+   * Conditions
+   * Number,Strings
+   * functions
+   * Array
+   * Object
+   * Json
+   * File
+   * Classes
+   * Exceptions
+   * Errors
+     * -----
+   * Lambda
+   * List
+   * Tuples
+   * Dictionary
   
   ## Advanced 
   
