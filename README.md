@@ -1,9 +1,9 @@
 # Python
   
-  *Basic*
+  ## Basic
   
   
-  *Advanced*
+  ## Advanced 
   
   
   
